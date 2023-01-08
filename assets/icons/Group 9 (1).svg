@@ -1,0 +1,14 @@
+<svg id="Group_9" data-name="Group 9" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="lock" transform="translate(5 4)" opacity="0">
+    <rect id="Rectangle_2477" data-name="Rectangle 2477" width="14.4" height="8.8" rx="2" transform="translate(0 7.2)" fill="none" stroke="#2fa4ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_3769" data-name="Path 3769" d="M7,9.2V6a4,4,0,0,1,8,0V9.2" transform="translate(-3.8 -2)" fill="none" stroke="#2fa4ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+  <rect id="Rectangle_2478" data-name="Rectangle 2478" width="24" height="24" fill="none"/>
+  <g id="Group_2580" data-name="Group 2580">
+    <g id="unlock" transform="translate(5 4)">
+      <rect id="Rectangle_2769" data-name="Rectangle 2769" width="14.396" height="8.798" rx="2" transform="translate(0 7.202)" fill="none" stroke="#2fa4ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_4849" data-name="Path 4849" d="M4,8.2V5a4,4,0,0,1,7.918-.8" transform="translate(-0.801 -0.995)" fill="none" stroke="#2fa4ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <rect id="Rectangle_2478-2" data-name="Rectangle 2478" width="24" height="24" fill="none"/>
+  </g>
+</svg>
