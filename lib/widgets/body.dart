@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
-import 'package:vehiclecave/components/background.dart';
-import 'package:vehiclecave/components/buttons/custom_text_button.dart';
+import 'package:vehiclecave/widgets/background.dart';
+import 'package:vehiclecave/widgets/buttons/custom_text_button.dart';
 
 class Body extends StatelessWidget {
   const Body({super.key});

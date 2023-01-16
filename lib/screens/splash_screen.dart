@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../components/body.dart';
+import '../widgets/body.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
@@ -8,6 +8,9 @@ class SplashScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     // ignore: prefer_const_constructors
     return Scaffold(
+      // appBar: AppBar(
+      //     // title: const Text('Sample Code'),
+      //     ),
       body: const Body(),
     );
   }
